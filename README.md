@@ -11,7 +11,4 @@ Skills and Experience:
 
 💻 HTML, CSS, JS
 
-
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=majcheradam&theme=nord&show_icons=true)](https://adammajcher.pl)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majcheradam&layout=compact&theme=nord&show_icons=true)](https://adammajcher.pl)
